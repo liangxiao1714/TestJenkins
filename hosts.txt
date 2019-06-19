@@ -1,3 +1,4 @@
 192.168.2.201 static.ycgame.com
 192.168.2.201 app-loginapi.ycgame.com
+192.168.2.201 app-loginweb.ycgame.com
 192.168.2.167 account.ycgame.com
